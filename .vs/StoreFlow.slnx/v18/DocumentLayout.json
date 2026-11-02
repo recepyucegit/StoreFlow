@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Migrations\\20261030191536_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreFlow\\Migrations\\20261030191536_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|c:\\users\\recep\\desktop\\efcoreprojesi\\storeflow\\storeflow\\context\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|solutionrelative:storeflow\\context\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|c:\\users\\recep\\desktop\\efcoreprojesi\\storeflow\\storeflow\\viewcomponents\\_cardstatisticsdashboardcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|solutionrelative:storeflow\\viewcomponents\\_cardstatisticsdashboardcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|c:\\users\\recep\\desktop\\efcoreprojesi\\storeflow\\storeflow\\views\\shared\\components\\_cardstatisticsdashboardcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|solutionrelative:storeflow\\views\\shared\\components\\_cardstatisticsdashboardcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|c:\\users\\recep\\desktop\\efcoreprojesi\\storeflow\\storeflow\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|solutionrelative:storeflow\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|c:\\users\\recep\\desktop\\efcoreprojesi\\storeflow\\storeflow\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|solutionrelative:storeflow\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|c:\\users\\recep\\desktop\\efcoreprojesi\\storeflow\\storeflow\\views\\shared\\components\\_activitydashboardcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|solutionrelative:storeflow\\views\\shared\\components\\_activitydashboardcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|c:\\users\\recep\\desktop\\efcoreprojesi\\storeflow\\storeflow\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|solutionrelative:storeflow\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|c:\\users\\recep\\desktop\\efcoreprojesi\\storeflow\\storeflow\\viewcomponents\\_salesstatusdashboardcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|solutionrelative:storeflow\\viewcomponents\\_salesstatusdashboardcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|c:\\users\\recep\\desktop\\efcoreprojesi\\storeflow\\storeflow\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|solutionrelative:storeflow\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|c:\\users\\recep\\desktop\\efcoreprojesi\\storeflow\\storeflow\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|solutionrelative:storeflow\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|c:\\users\\recep\\desktop\\efcoreprojesi\\storeflow\\storeflow\\entities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB18042-2B0D-6B03-CF35-AA4B582B8546}|StoreFlow\\StoreFlow.csproj|solutionrelative:storeflow\\entities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20261030191536_mig1.cs",
-              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Migrations\\20261030191536_mig1.cs",
-              "RelativeDocumentMoniker": "StoreFlow\\Migrations\\20261030191536_mig1.cs",
-              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Migrations\\20261030191536_mig1.cs",
-              "RelativeToolTip": "StoreFlow\\Migrations\\20261030191536_mig1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T19:15:36.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Context\\StoreContext.cs",
-              "RelativeDocumentMoniker": "StoreFlow\\Context\\StoreContext.cs",
-              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Context\\StoreContext.cs",
-              "RelativeToolTip": "StoreFlow\\Context\\StoreContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T18:57:59.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "StoreFlow\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Entities\\Customer.cs",
-              "RelativeToolTip": "StoreFlow\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T18:55:59.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "StoreFlow\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Entities\\Order.cs",
-              "RelativeToolTip": "StoreFlow\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T18:53:37.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "StoreFlow\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Entities\\Category.cs",
-              "RelativeToolTip": "StoreFlow\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T18:48:51.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "StoreFlow\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Entities\\Product.cs",
-              "RelativeToolTip": "StoreFlow\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T18:47:01.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "StoreFlow\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "StoreFlow\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Views\\Shared\\Components\\_ActivityDashboardComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "StoreFlow\\Views\\Shared\\Components\\_ActivityDashboardComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Views\\Shared\\Components\\_ActivityDashboardComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "StoreFlow\\Views\\Shared\\Components\\_ActivityDashboardComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-30T18:05:17.663Z",
+              "WhenOpened": "2026-11-02T11:28:21.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Views\\Shared\\Components\\_CardStatisticsDashboardComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "StoreFlow\\Views\\Shared\\Components\\_CardStatisticsDashboardComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Views\\Shared\\Components\\_CardStatisticsDashboardComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "StoreFlow\\Views\\Shared\\Components\\_CardStatisticsDashboardComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowCIAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-30T17:50:07.234Z",
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Entities\\Activity.cs",
+              "RelativeDocumentMoniker": "StoreFlow\\Entities\\Activity.cs",
+              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Entities\\Activity.cs",
+              "RelativeToolTip": "StoreFlow\\Entities\\Activity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T11:17:33.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_CardStatisticsDashboardComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\ViewComponents\\_CardStatisticsDashboardComponentPartial.cs",
-              "RelativeDocumentMoniker": "StoreFlow\\ViewComponents\\_CardStatisticsDashboardComponentPartial.cs",
-              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\ViewComponents\\_CardStatisticsDashboardComponentPartial.cs",
-              "RelativeToolTip": "StoreFlow\\ViewComponents\\_CardStatisticsDashboardComponentPartial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Title": "_SalesStatusDashboardComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\ViewComponents\\_SalesStatusDashboardComponentPartial.cs",
+              "RelativeDocumentMoniker": "StoreFlow\\ViewComponents\\_SalesStatusDashboardComponentPartial.cs",
+              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\ViewComponents\\_SalesStatusDashboardComponentPartial.cs",
+              "RelativeToolTip": "StoreFlow\\ViewComponents\\_SalesStatusDashboardComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T09:50:05.363Z",
+              "WhenOpened": "2026-11-02T11:02:11.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreFlow\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\recep\\Desktop\\EFCoreProjesi\\StoreFlow\\StoreFlow\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "StoreFlow\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T09:52:55.764Z",
               "EditorCaption": ""
             }
           ]
